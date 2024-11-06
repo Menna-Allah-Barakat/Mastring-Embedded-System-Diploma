@@ -1,2 +1,2 @@
 # Mastring-Embedded-Systems-Diploma
-## Mennat-Allah-Barakat..
+## Mennat-Allah-Barakat
